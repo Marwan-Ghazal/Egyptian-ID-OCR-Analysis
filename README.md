@@ -34,7 +34,7 @@ cd Arabic-OCR-comparing
 
 2. Install required dependencies:
 ```bash
-pip install -r requirements.txt
+Run the first block in ID_OCR_Pipeline.ipynb
 ```
 
 3. Install additional OCR engines:
